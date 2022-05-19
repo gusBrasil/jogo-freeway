@@ -2,6 +2,9 @@ body {
     background-color: gray;
 }
 
+.page {
+}
+
 h1 {
     text-align: center;
 }
@@ -11,6 +14,7 @@ p {
 }
 
 canvas {
-    margin: 50%;
+    position: absolute;
     width: 40%;
+    left: 50%;
 }
