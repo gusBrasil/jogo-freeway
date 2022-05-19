@@ -2,8 +2,16 @@ body{
     background-color: gray;
 }
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
 canvas {
     margin-left: 30%;
-    margin-top: 20%;
+    margin-top: 10%;
     width: 40%;
 }
