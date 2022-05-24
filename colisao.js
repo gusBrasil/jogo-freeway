@@ -14,7 +14,7 @@ function verificaColisao(){
             resetaPosicao();
             somColisao();
             if(meusPontos > 0){
-                meusPontos--
+                meusPontos = 0;
             };
         };
         
